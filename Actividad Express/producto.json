@@ -1,0 +1,19 @@
+{
+    "productos" :[
+    {
+        "ID": 1,
+        "Nombre": "ruby",
+        "Precio": 15000000
+    },
+    {
+        "ID": 2,
+        "Nombre": "samsung",
+        "Precio": 7000000
+    },
+    {
+        "ID": 3,
+        "Nombre": "",
+        "Precio": 15000
+    }
+    ]
+}
